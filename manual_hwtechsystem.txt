@@ -1,0 +1,40 @@
+ESSE SISTEMA FOI CRIADO PELO ESTUDANTE DE PYTHON: HYAGO WENDEL
+
+Essa é uma produção educacional onde foi investido tempo e conhecimento e muita prática para compor um sistema integrado com banco de dados e com interface gráfica para facilitar a interação com os usuários finais.
+
+Essa ferramenta deve ser utilizada da seguinte maneira:
+
+• REGISTRAR CLIENTE:
+Preencha todos os campos, caso deixe algo incorreto o sistema limpará as informações já preenchidas.
+Após preencher essas informações e revisá-las, então você deve clicar em [REGISTRAR].
+
+• EXCLUIR CLIENTE:
+Para excluir um Cliente, você pode simplesmente clicar na aba [ARQUIVOS] e clicar em [CLIENTES].
+Essa opção mostrará os dados de todos os Clientes, identifique o ID do qual deseja excluir e coloque no campo ID do Cliente e Pressione em [EXCLUIR CLIENTE].
+
+• LIMPAR CAMPO OU TELA:
+Outra coisa está ao seu dispor são os botões de [LIMPAR CAMPOS] e o de [LIMPAR TELA].
+
+• ALTERAR INFORMAÇÕES:
+Para alterar informações, basta selecionar o [ID DO CLIENTE] e alterar a informação que desejar.
+Agora você pressiona o botão [ALTERAR DADOS] para confirmar a alteração.
+No painel ao lado aparecerá a lista de cliente para você verificar tudo que foi feito.
+
+• ENVIAR MENSAGEM POR WHATSAPP:
+Você também possui o botão de [ENVIAR WHATSAPP], porém, você deve seguir estes passos:
+1- Abrir o seu WhatsApp Web e conectar corretamente no seu Navegador.
+2- Preencher no formato completo o campo de número de contato: +5585123456789
+3- Preencher o campo de mensagem com a mensagem que desejar.
+4- Clicar em [ENVIAR MENSAGEM] e aguardar todo o processo ser concluído.
+*Duração média de 5 minutos até o fim do processo.*
+
+Para seu auxílio, terá a sua disposição um botão: [MOSTRAR TODOS] que mostrará todos os contatos cadastrados.
+
+• ABAS:
+São elas: ARQUIVOS | EDITAR | AJUDA
+
+ARQUIVOS: é onde você encontrará as funcionalidades [SALVAR] que salvará os dados dos clientes em um arquivo .TXT dentro da pasta atual do sistema e a de Listar todos os Clientes pressionando em [CLIENTES]
+
+EDITAR: nesta servirá para preencher automaticamente os campos que deseja editar, porém precisará preencher o campo [ID DO CLIENTE] referente ao que quer editar/alterar.
+
+AJUDA: Este mostrará informações relevantes e uma breve explicação das funcionalidades que este sistema possui e por quem foi criado e qual a finalidade do mesmo.
