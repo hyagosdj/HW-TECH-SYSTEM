@@ -9,7 +9,6 @@ class TelaPythonSGUI():
     sg.theme('DarkBlue13')
 
     def criar_janela():
-        # IMPLEMENTAR O SALVAR PARA QUE SEJA DISPONIBILIZADO UM ARQUIVO .TXT COM AS INFORMAÇÕES DOS CLIENTES DO BANCO DE DADOS.
         menu = [
             ['ARQUIVOS', ['CLIENTES', 'SALVAR']],
             ['EDITAR', ['NOME', 'SOBRENOME', 'CONTATO', 'ENDEREÇO']],
